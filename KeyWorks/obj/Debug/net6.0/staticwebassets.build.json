@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8T3cerxdPzIVU487uYJxlzQkBvXlMtgyaLn0ROsAEPk=",
+  "Source": "KeyWorks.Api",
+  "BasePath": "_content/KeyWorks.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
